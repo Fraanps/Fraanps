@@ -1,4 +1,10 @@
-## Hi there 👋
+## Francilene P. Silva 👋
+
+<p align="left">
+     <h1>Francilene P. Silva</h1>
+  Licenciada em Análise e Desenvolvimento de Sistema, pós graduanda em Engenharia de Software com ênfase em Qualidade e teste de software 
+  Aqui você vai encontrar todos os meus projetos de cursos e pessoais, desde os trabalhos de faculdade até os que idealizei. <strong>Software developer </strong>⌨️.
+</p>
 
 <!--
 **Fraanps/Fraanps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
