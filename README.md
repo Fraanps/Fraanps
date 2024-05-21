@@ -1,22 +1,9 @@
 ## Francilene P. Silva 👋
 
-<p align="left">
-     <h1>Francilene P. Silva</h1>
-  Licenciada em Análise e Desenvolvimento de Sistema, pós graduanda em Engenharia de Software com ênfase em Qualidade e teste de software 
-  Aqui você vai encontrar todos os meus projetos de cursos e pessoais, desde os trabalhos de faculdade até os que idealizei. <strong>Software developer </strong>⌨️.
-</p>
+* 🎓 Licenciada em Análise e Desenvolvimento de Sistema, com interesse na área de Qualidade de software, 
+* 🌱 Pós graduanda em Engenharia de Software com ênfase em Qualidade e Teste de Software </br>
+* 🔎 Aqui você vai encontrar todos os meus projetos de cursos e pessoais.
 
-<!--
-**Fraanps/Fraanps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,cypress,java,selenium,ruby,gherkin,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
